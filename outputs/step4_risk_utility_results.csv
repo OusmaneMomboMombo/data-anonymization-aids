@@ -1,0 +1,13 @@
+"Method","Parameters","Global_Risk","Expected_ReID","IL1","Eigen_Diff"
+"Local Suppression","k=2",0.02308,49.4,0,0
+"Local Suppression","k=3",0.0197,42.1,0,0
+"Local Suppression","k=5",0.01742,37.3,0,0
+"Local Suppression","k=10",0.01257,26.9,0,0
+"Global Recoding","3 bands",0.0173,37,0,0
+"Global Recoding","2 bands",0.01216,26,0,0
+"Microaggregation","group=3",NA,NA,138438.546,0.0199
+"Microaggregation","group=5",NA,NA,157141.867,0.0277
+"Additive Noise","noise=0.05",NA,NA,75.51,0
+"Additive Noise","noise=0.1",NA,NA,152.589,0
+"PRAM","pd=0.05",NA,NA,0,0
+"PRAM","pd=0.1",NA,NA,0,0
