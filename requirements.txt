@@ -1,0 +1,8 @@
+# Required R packages for the Data Anonymization Project
+sdcMicro >= 5.7.3
+dplyr >= 1.1.2
+ggplot2 >= 3.5.0
+GGally >= 2.2.1
+openxlsx >= 4.2.5.2
+R >= 4.3.0
+RStudio >= 2023.06
