@@ -68,6 +68,8 @@ data-anon-aids/
 ├── report/
 │   └── Rapport_Anonymisation_AIDS.pdf # Final project report
 │
+├── requirements.txt                   # List of required R packages
+│
 └── README.md
 ```
 
@@ -175,4 +177,4 @@ A realistic application is **analyzing treatment effectiveness** based on patien
 
 > “Data anonymization is not about hiding information,  
 > but about preserving trust while enabling knowledge.”  
-> — *Aivancity Data Privacy Team, 2025*
+> — *aivancity Data Privacy Team, 2025*
