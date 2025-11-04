@@ -12,9 +12,7 @@ The project demonstrates how to **reduce re-identification risk** while preservi
 
 ## 🏫 Academic Context
 
-This project was completed as part of the **Data Anonymization** course at  
-🎓 *Aivancity School of AI, Data for Business & Society* (Master PGE4),  
-under the supervision of **Professor Amin EHSAN**.  
+This project was completed as part of the **Data Anonymization** course at *aivancity School of AI, Data for Business & Society* (Master PGE4), under the supervision of **Professor Amin EHSAN**.  
 
 It was carried out collaboratively by:
 
@@ -45,6 +43,7 @@ The project follows the full anonymization workflow:
 
 ## 📂 Repository Structure
 
+```text
 data-anon-aids/
 │
 ├── datasets/
@@ -69,9 +68,9 @@ data-anon-aids/
 ├── report/
 │   └── Rapport_Anonymisation_AIDS.pdf # Final project report
 │
-├── .gitignore
-├── LICENSE
 └── README.md
+```
+
 
 ---
 
@@ -135,8 +134,8 @@ source("scripts/05_extra_credit.R")
 
 ## 📊 Results Summary
 
-| Method | Parameter | Global Risk ↓ | IL1 ↓ | Structure Preservation ↑ | Comment |
-|---------|------------|---------------|-------|---------------------------|----------|
+| Method | Parameter | Global Risk ↓ | IL1 ↓ | Structure Preservation ↑ | 
+|---------|------------|---------------|-------|---------------------------|
 | Local Suppression | k=5 | 0.017 | 0 | Excellent balance |
 | Global Recoding | 2 bands | 0.012 | 0 | Strong anonymization |
 | Microaggregation | group=5 | NA | 157k | High distortion |
