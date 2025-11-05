@@ -12,7 +12,7 @@ The project demonstrates how to **reduce re-identification risk** while preservi
 
 ## 🏫 Academic Context
 
-This project was completed as part of the **Data Anonymization** course at *aivancity School of AI, Data for Business & Society* (Master PGE4), under the supervision of **Professor Amin EHSAN**.  
+This project was completed as part of the **Data Anonymization** course at *aivancity School of AI, Data for Business & Society* (Master PGE4), under the supervision of **Professor [Amin EHSAN](https://www.linkedin.com/in/ehsan-amin/)**.
 
 It was carried out collaboratively by:
 
